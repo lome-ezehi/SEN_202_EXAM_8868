@@ -6,3 +6,5 @@ This API is for managing company staff: Managers and Interns.
 **Author**: Ezehi Theddy Oseijoyalome
 **Matric Number**: VUG/SEN/23/8868  
 [**lome-ezehi**](https://github.com/lome-ezehi)
+
+django-admin startproject theddy_staff_api
