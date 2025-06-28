@@ -11,3 +11,8 @@ This API is for managing company staff: Managers and Interns.
 ## SUPERUSER Login
 **username:** **lomeezehi@gmail.com**
 **password:** **0000**
+
+## Questions Answered
+1.
+2.
+3.
